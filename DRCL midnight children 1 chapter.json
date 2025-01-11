@@ -3,15 +3,16 @@
   "description": "",
   "artist": "",
   "author": "",
-  "cover": "",
+  "cover": "https://drive.google.com/file/d/1Z7q_ZJucBQipyrGs5cVoZqMDOyK8n_yZ/view?usp=drive_link",
   "chapters": {
     "39": {
-      "title": "37",
+      "title": "",
       "volume": "",
       "last_updated": "1736614140",
       "groups": {
         "DRCL midnight children": [
           "https://drive.google.com/file/d/1aJgOVa3lhswXrECz2SSDn0OyP8WX_j7W/view?usp=sharing",
+          "https://drive.usercontent.google.com/download?id=1aJgOVa3lhswXrECz2SSDn0OyP8WX_j7W",
           "https://drive.usercontent.google.com/download?id=1aJgOVa3lhswXrECz2SSDn0OyP8WX_j7W"
         ]
       }
